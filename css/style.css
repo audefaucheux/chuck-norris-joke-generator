@@ -1,0 +1,22 @@
+* {
+  font-family: Impact, fantasy;
+  text-align: center
+}
+
+h1 {
+  font-size: 50px;
+}
+
+button {
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+}
+
+#chuck-joke {
+  font-size: 30px;
+  /* text-overflow: ellipsis;
+  width: 1000px;
+  justify-self: center; */
+}
+
